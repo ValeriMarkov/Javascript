@@ -1,0 +1,7 @@
+Create a web based aquarioum with these requirements:
+1. On startup, create a random number of fishes between 3 and 10 in the aquarium.
+2. The fishes do a chaotic movement on the display. Every movement should be done in interval between 1 and 2 seconds
+3. On clicking on the "glass", all fishes stop the chaotic movement, and head towards the click spot in exactly 1 second.
+4. Half a second after the fishes get to the clicked spot, begin they're chaotic movement again.
+5. On screen resize, fishes should stop any started movement, and move to a visible spot on the window.
+
